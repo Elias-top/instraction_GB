@@ -50,6 +50,9 @@
 * *git branch -d "branch_name"*
 
     Удалить ветку
-    
-![Текст с описанием картинки](/images/geek_image.jpg)
 
+* *git branch*
+
+    Вывести все ветки и посмотреть на какой находимся
+
+![Текст с описанием картинки](/images/geek_image.jpg)
