@@ -46,6 +46,10 @@
 * *git checkout "branch_name"*
 
     Перейти на другую ветку
+
+* *git branch -d "branch_name"*
+
+    Удалить ветку
     
 ![Текст с описанием картинки](/images/geek_image.jpg)
 
