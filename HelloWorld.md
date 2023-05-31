@@ -50,6 +50,10 @@
 * *git branch -d "branch_name"*
 
     Удалить ветку
+
+* *git branch "branch_name"*
+
+    Ошибочная команда (баг)
     
 ![Текст с описанием картинки](/images/geek_image.jpg)
 
